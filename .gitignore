@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+Temp/
+.vs/
+*.pdb
+*.ilk
+Lib/
+HelloWorld/HelloWorld/Debug/
+HelloWorld/HelloWorld/Release/
+HelloWorld/HelloWorld/x64/
